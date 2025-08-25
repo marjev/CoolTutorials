@@ -1,4 +1,4 @@
-# CoolTutorials
+# Cool Tutorials
 Tutorials I followed to learn cool CS concepts
 
 | Repository File                     | External Tutorial                                |
